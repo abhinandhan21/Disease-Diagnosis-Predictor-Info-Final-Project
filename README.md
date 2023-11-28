@@ -18,11 +18,17 @@ Algorithms Description:
 
 Tools Used:
  
- Python: The core programming language for data analysis, machine learning, and web application development.
+
+Python: The core programming language for data analysis, machine learning, and web application development.
+
 Pandas: Utilized for data manipulation and preprocessing tasks, ensuring the dataset's cleanliness and readiness for analysis.
+
 Scikit-learn: Integrated for the implementation of machine learning algorithms, including Random Forest and Decision Tree.
+
 Streamlit: The backbone of the web application, providing an intuitive and interactive user interface for inputting health indicators and obtaining predictions.
+
 GitHub: The project repository is hosted on GitHub, facilitating version control, collaboration, and accessibility.
+
 Backblaze (Backup): The primary storage for datasets, with a backup available on the app's GitHub repository.
 
 
