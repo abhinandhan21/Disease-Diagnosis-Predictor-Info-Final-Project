@@ -1,4 +1,8 @@
 # Disease and Diagnosis Predictor
+## Streamlit App
+
+Check out the live version of the app [here](https://disease-diagnosis-predictor-info-final-project-ekepnm3mfytbcbs.streamlit.app/).
+
 # Abstract: 
 # The Disease & Diagnosis Predictor is an advanced web application designed for disease prediction and diagnosis assessment. The primary dataset used for this project is the "Diabetes Prediction Dataset," which includes attributes such as Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age. The application goes beyond diabetes prediction, incorporating modules for liver, kidney, and heart disease prediction. The implemented machine learning algorithms include Random Forest and Decision Tree, providing users with accurate predictions and insights into potential health conditions.
 # Data Description: 
