@@ -1,4 +1,14 @@
 # Disease and Diagnosis Predictor
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://disease-diagnosis-predictor-info-final-project-ekepnm3mfytbcbs.streamlit.app/)
+
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/abhinandhan21/Disease-Diagnosis-Predictor-Info-Final-Project.git
+   cd Disease-Diagnosis-Predictor-Info-Final-Project
+
 ## Streamlit App
 
 Check out the live version of the app [here](https://disease-diagnosis-predictor-info-final-project-ekepnm3mfytbcbs.streamlit.app/).
